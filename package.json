@@ -1,16 +1,19 @@
 {
   "name": "tallerasyntack",
   "version": "1.0.0",
-  "description": "",
+  "description": "\"creando package.json\"",
   "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dsgonzag/tallerasyntack.git"
   },
-  "author": "",
+  "author": "\"Diana\"",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dsgonzag/tallerasyntack/issues"
